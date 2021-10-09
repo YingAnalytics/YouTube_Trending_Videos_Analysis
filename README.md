@@ -13,8 +13,8 @@ videos to identify changes in preference.
 
 
 <h2> Notebook (codes) Links on Google Colab  : </h2> <br>
-phase 1: SQL exploratory analysis : https://drive.google.com/file/d/17DZ23DNfB0ykneW_0G_VGu3uGU9b5uGk/view?usp=sharing <br>
-phase 2: Python exploratory analysis: https://drive.google.com/file/d/19a_hWt73d_2apE5WZPSn1_Y0pYmLINu5/view?usp=sharing<br><br>
+phase 1: SQL exploratory analysis : https://colab.research.google.com/drive/1EG6kCxzDZfBNGe1_tHi7bqG9tS5yHY7q?usp=sharing <br>
+phase 2: Python exploratory analysis: https://colab.research.google.com/drive/1Go6IypPnEhz-RWN6SwQ92LULSOwaQU-n?usp=sharing <br><br>
 
 
 <h2> Data source:</h2>

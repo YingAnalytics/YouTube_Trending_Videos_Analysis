@@ -12,6 +12,10 @@ We will analyze the characteristics, including categories, view, likes count and
 videos to identify changes in preference. 
 
 
+<h2> Notebook (codes) Links on Google Colab  : </h2> <br>
+phase 1: SQL exploratory analysis : https://drive.google.com/file/d/17DZ23DNfB0ykneW_0G_VGu3uGU9b5uGk/view?usp=sharing <br>
+phase 2: Python exploratory analysis: https://drive.google.com/file/d/19a_hWt73d_2apE5WZPSn1_Y0pYmLINu5/view?usp=sharing<br><br>
+
 
 <h2> Data source:</h2>
 

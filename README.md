@@ -1,7 +1,7 @@
 <h1> Project: U.S and Japan YouTube Trending videos Exploratory Analysis </h1> <br>
 
 Team Members: Maraline Torres, Ying Zhang, Bruce Hou, Yuting Gong, Yujia Cao <br>
-Programming Language: SQL<br><br>
+Programming Language: SQL for phase 1 and Python for Phase 2<br><br>
 
 
 
